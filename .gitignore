@@ -1,0 +1,9 @@
+obj/
+.vs/
+*.csproj.user
+bin/
+.docusaurus/
+node_modules/
+.vscode/
+build/
+debug.log
